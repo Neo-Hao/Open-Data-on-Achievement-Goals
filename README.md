@@ -1,4 +1,4 @@
-# Open-Data-on-Achievement-Goals
+# Open Data on Achievement Goals
 
 This repo holds the open data for the study titled "The Influence of Achievement Goals on Online Help Seeking of Computer Science Students" by Qiang Hao, Brad Barnes, Ewan Wright, and Robert M. Branch. The study manuscript is currently submitted to British Journal of Educational Technology for publication.
 
@@ -7,7 +7,7 @@ The study was approved by IRB of the University of Georgia. The study focus was 
 ## Manual for the Data
 
 CaseNo.	--- a student
-OnlineSearch --- Online searching	
+OnlineSearch --- Online searching
 OnlineTeacher --- Asking teachers online for help
 OnlinePeer --- Asking peers or unknwon people for help
 PAP	--- Performance-Approach Goals

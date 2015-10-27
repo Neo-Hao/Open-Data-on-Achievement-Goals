@@ -6,15 +6,15 @@ The study was approved by IRB of the University of Georgia. The study focus was 
 
 ## Manual for the Data
 
-CaseNo.	--- a student
-OnlineSearch --- Online searching
-OnlineTeacher --- Asking teachers online for help
-OnlinePeer --- Asking peers or unknwon people for help
-PAP	--- Performance-Approach Goals
-PAP1 - PAP3 --- Questions measuring Performance-Approach Goals
-PAV	--- Performance-Avoidance Goals
-PAV1 - PAV3 --- Questions measuring Performance-Avoidance Goals
-MAV	--- Mastery-Avoidance Goals
-MAV1 - MAV3 --- Questions measuring Mastery-Avoidance Goals
-MAP --- Mastery-Approach Goals
-MAP1 - MAP3 --- Questions measuring Mastery-Approach Goals
+* CaseNo. --- a student
+* OnlineSearch --- Online searching
+* OnlineTeacher --- Asking teachers online for help
+* OnlinePeer --- Asking peers or unknwon people for help
+* PAP	--- Performance-Approach Goals
+* PAP1 - PAP3 --- Questions measuring Performance-Approach Goals
+* PAV	--- Performance-Avoidance Goals
+* PAV1 - PAV3 --- Questions measuring Performance-Avoidance Goals
+* MAV	--- Mastery-Avoidance Goals
+* MAV1 - MAV3 --- Questions measuring Mastery-Avoidance Goals
+* MAP --- Mastery-Approach Goals
+* MAP1 - MAP3 --- Questions measuring Mastery-Approach Goals

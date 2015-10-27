@@ -6,7 +6,7 @@ The study was approved by IRB of the University of Georgia. The study focus was 
 
 ## Manual for the Data
 
-* CaseNo. --- a student
+* CaseNo. --- Student Number
 * OnlineSearch --- Online searching
 * OnlineTeacher --- Asking teachers online for help
 * OnlinePeer --- Asking peers or unknwon people for help
